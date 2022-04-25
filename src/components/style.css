@@ -1,0 +1,29 @@
+.root {
+    flex-grow: 1;
+    margin-bottom: 7rem;
+  }
+.appBar {
+    background-color: "whitesmoke";
+    box-shadow: "none";
+}
+.grow {
+    flex-grow: 1;
+  }
+.button {
+    margin-left: 2px;
+}
+.image {
+    margin-right: 10px;
+    height: 20px;
+}
+.cardRating{
+
+}
+.cardActions{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.cardRating{
+    display: flex;
+}
